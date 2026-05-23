@@ -1,4 +1,4 @@
-# Portfolio QA Tester — Renan Rodrigues
+# Portfolio QA Tester - Renan Rodrigues
 
  **[Ver Portfólio ao vivo](https://renanarrodrigues.github.io/portfolio-qa-tester/)**
 
@@ -7,11 +7,11 @@ experiência prática em automação de testes, gestão de qualidade e ferrament
 utilizadas no ciclo de desenvolvimento de software.
 
 ## Ferramentas abordadas
-- **Cypress** — Automação E2E com suítes integradas ao pipeline CI/CD
-- **Katalon Studio** — Automação web com relatórios de execução por sprint
-- **Xray Exploratory App** — Gestão de casos de teste e rastreabilidade no Jira
-- **Postman** — Testes de API REST com coleções e automação via Newman
-- **Jira** — Gestão de bugs, boards Scrum e dashboards de qualidade
+- **Cypress** Automação E2E com suítes integradas ao pipeline CI/CD
+- **Katalon Studio** Automação web com relatórios de execução por sprint
+- **Xray Exploratory App** Gestão de casos de teste e rastreabilidade no Jira
+- **Postman** Testes de API REST com coleções e automação via Newman
+- **Jira** Gestão de bugs, boards Scrum e dashboards de qualidade
 
 ## Destaques
 - Evidências reais de execução (screenshots comentados)
